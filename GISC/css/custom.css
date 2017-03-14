@@ -1,0 +1,28 @@
+body{
+		color : #E8EAF6;
+		font-family : sans-serif;
+		}
+		
+		#footer{
+			background-color : #7986CB;
+		}
+		#body{
+			background-color : #3F51B5;
+		}
+		#override{
+		
+		
+		}
+				
+		.margin { margin:5px 5px 5px 5px; }
+		.margintopbottom { margin:5px 0px 5px 0px; }
+		.marginleftright { margin:0px 5px 0px 5px; }
+
+		.padding { padding:5px 5px 5px 5px; }
+		.paddingtopbottom { padding:5px 0px 5px 0px; }
+		.paddingleftright { padding:0px 5px 0px 5px }
+		
+		.panal{
+		min-height:40%;
+		}
+		
